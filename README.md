@@ -4,7 +4,11 @@ Este projeto propõe uma solução de IoT para o monitoramento de infraestrutura
 
 ## Código e Documentação
 
-O código principal está disponível na pasta do repositório `projeto_esp32.ino` e foi desenvolvido na Arduino IDE. O arquivo principal inclui Configuração da conexão Wi-Fi, Configuração do protocolo MQTT, Funções para leitura do sensor DHT11, Controle do LED com base em limites predefinidos.  
+O código principal está disponível na pasta do repositório `projeto_esp32.ino` e foi desenvolvido na Arduino IDE. O arquivo principal inclui:
+
+- Configuração da conexão Wi-Fi.
+- Configuração do protocolo MQTT.
+- Funções para leitura do sensor DHT11, Controle do LED com base em limites predefinidos.  
 
 ### Hardware
 
